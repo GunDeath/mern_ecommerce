@@ -1,0 +1,28 @@
+{
+    "orderItems" : [
+        {
+            "name" : "Starter set PNB Starter Kit with LED device",
+            "qty" : 2,
+            "image" : "images/pnb_003.jpg",
+            "price" : 44,
+            "product" : "5fb0ee9511c78a25a8191b57"
+        }
+    ],
+    "shippingAddress" : {
+        "address" : "Moskovskaya, 28",
+        "city" : "Makeevka",
+        "postalCode" : "86132",
+        "country" : "Ukraine",
+        "phone" : 380668082971
+    },
+    "userInfo" : {
+        "name" : "Philipp",
+        "surname" : "Bulyga",
+        "patronymic" : "Sergeevich",
+        "email" : "email"
+    },
+    "paymentMethod" : "WayForPay",
+    "itemsPrice" : 44,
+    "shippingPrice" : 8,
+    "totalPrice" : 54
+}
